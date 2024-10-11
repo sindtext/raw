@@ -1,4 +1,4 @@
-Please Request Access to Our Code to sindtext@gmail.com
+Please Request Access Our Code to sindtext@gmail.com
 
 https://github.com/sindtext/reignalterworld
 
