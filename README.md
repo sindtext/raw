@@ -1,3 +1,7 @@
+Please Request Access to Our Code to sindtext@gmail.com
+>>> https://github.com/sindtext/reignalterworld
+>>> https://github.com/sindtext/RAWbank
+
 **Reign Alter World** (RAW) is a next generation of Cross Platform Survival MMORPG with new gameplay and feature and revolutionary "**inGame DeFi**" which has focused to make sustainable political and economic systems, thus allowing player to have out/inGame financial solution from many **revenue opportunity** and **various payment method**.
 
 [Play Alpha Test Here](https://play.google.com/store/apps/details?id=com.jsi.raw) [Use RAWxU2U invitation code]
