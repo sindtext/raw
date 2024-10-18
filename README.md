@@ -1,17 +1,16 @@
-Please Request Access Our Code to sindtext@gmail.com
-
-https://github.com/sindtext/reignalterworld
-
-https://github.com/sindtext/RAWbank
-
 **Reign Alter World** (RAW) is a next generation of Cross Platform Survival MMORPG with new gameplay and feature and revolutionary "**inGame DeFi**" which has focused to make sustainable political and economic systems, thus allowing player to have out/inGame financial solution from many **revenue opportunity** and **various payment method**.
 
-[Play Alpha Test Here](https://play.google.com/store/apps/details?id=com.jsi.raw) [Use RAWxU2U invitation code]
+Play Alpha Test / Live Demo :
+https://play.google.com/store/apps/details?id=com.jsi.raw
+[Use RAWxU2U invitation code]
+
+Gameplay Overview :
+https://www.youtube.com/watch?v=G0GeArC0248
 
 We offer player **Revenues Opportunities** with our regulated bot system, wages system and many other. So they can play and earn whatever them purpose, for game growth, for payout/income, whatever. And this is also give free player opportunity to beat paid player with them hard work.
 
-![youtube](https://www.youtube.com/watch?v=6J1cjWgRRFA)
-*Auto Hunting/Gathering with regulated bot system*
+Auto Hunting/Gathering :
+https://www.youtube.com/watch?v=6J1cjWgRRFA
 
 When they growth, we unite them in Region and District. And "the Whale" will come. We expect them to spend money inside the game without wasting money.
 
@@ -21,8 +20,8 @@ Also without wasting times because they can hire other player to reach them goal
 
 From that all activity the **wheel of economy** will turn. This is will make supply and demand from each player. We will create InGame Blockchain Wallet to access our Unique Smart Contract we called "**RAW-Bank**". Our Key Feature for player to earn, investing and growth in their games. That allow players to do all their blockchain need with this feature, directly from the games.
 
-![youtube](https://www.youtube.com/watch?v=ajaDDGkI3G4)
-*inGame Blockchain Wallet & Currency Exchange Video Overview*
+inGame Blockchain Wallet & Currency Exchange :
+https://www.youtube.com/watch?v=ajaDDGkI3G4
 
 With our RAW-Bank, we had successfully use 2 different networks (EVM) with **gas free** (subsidize) and still UX Friendly (**friction less blockchain**). It is possible that we will do it on networks outside of EVM.
 
@@ -51,10 +50,12 @@ Season V : THORIUM ERA
 • ForceSwap Suit
 • Reign Alter Wars (Co-Op Strategy)
 
-[Read More Detail Here](https://reignalterworld.gitbook.io/litepaper)
+Read More Detail Here :
+https://reignalterworld.gitbook.io/litepaper
 
 That all is not just game season. That is also in line with our marketing strategy & monetization strategy. Who is our target, where & when we promote, why they play our games, what them problem & we offer, how we reach them. Are make up the development roadmap.
 
 We will start from South east Asian which is have tons of player, especially Indonesia, the 4th largest population in the world. And we commit to always follow the hype to drive the user to our games. Like find the utility and develop a telegram mini apps.
 
-[Play Telegram Mini Apps/Games Here](https://t.me/reignalterbot)
+Play Telegram Mini Apps/Games :
+https://t.me/reignalterbot
