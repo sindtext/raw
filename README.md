@@ -1,5 +1,5 @@
 1. Download This Use diksha@soonami.io email : https://drive.google.com/file/d/1d8KRoEMtEOJFFMTfRneFVVl3n8-dzHWX/
-2. Open with Unity 2022.3.42
+2. Open with Unity3D 2022.3.42
 3. Or open this if enough with code stack : https://github.com/sindtext/reignalterworld
 
 **Reign Alter World** (RAW) is a next generation of Cross Platform Survival MMORPG with new gameplay and feature and revolutionary "**inGame DeFi**" which has focused to make sustainable political and economic systems, thus allowing player to have out/inGame financial solution from many **revenue opportunity** and **various payment method**.
