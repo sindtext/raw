@@ -1,4 +1,4 @@
-1. Download This Use diksha@soonami.io email : https://drive.google.com/file/d/1d8KRoEMtEOJFFMTfRneFVVl3n8-dzHWX/view?usp=sharing
+1. Download This Use diksha@soonami.io email : https://drive.google.com/file/d/1d8KRoEMtEOJFFMTfRneFVVl3n8-dzHWX/
 2. Open with Unity 2022.3.42
 3. Or open this if enough with code stack : https://github.com/sindtext/reignalterworld
 
